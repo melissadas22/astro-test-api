@@ -1,3 +1,4 @@
+//creating own api
 export interface responseData {
 	postId: number
 	id: number
